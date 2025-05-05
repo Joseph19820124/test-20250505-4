@@ -1,0 +1,1 @@
+如果让我选择我现在最喜欢的架构可能是 n8n+mcp_client+mcp_server+lambda+dynamodb
