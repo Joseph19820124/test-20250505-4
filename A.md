@@ -1,0 +1,1 @@
+API Gateway -> n8n+mcp_client+mcp_server+lambda+dynamodb
